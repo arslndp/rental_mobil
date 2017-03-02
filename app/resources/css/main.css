@@ -1,0 +1,51 @@
+body{
+	/* background:  #317589; */
+	background: #fff;
+	font-family: sans-serif;
+}
+.nav-color{
+	background: #763568;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.6);	
+	color: #fff;
+}
+.home{
+	margin: 100px auto;
+}
+.data-sopir-view{
+	margin: 100px auto;
+}
+.navbar-default .navbar-brand{
+	color: #ccc;
+}
+.navbar-default .navbar-nav li a{
+	color: #fff;
+	font-weight: bold;
+}
+.navbar-default .navbar-nav li a:hover{
+	color: #c0c0c0;
+}
+#popup{
+	position: fixed;
+	height: auto;
+	z-index: 11111111111;
+}
+.shadow{
+	background: rgba(0,0,0,0.8);
+	position: fixed;
+	width: 100%;
+	top: 0;
+	height: 3000px;
+	z-index: 111111;
+}
+.panel-tengah{
+	margin: 100px auto;
+}
+#popupEdit{
+	position: fixed;
+	z-index: 111111111;
+}
+footer{
+	background: #c0c0c0;
+	padding: 10px;
+	text-align: center;
+}
